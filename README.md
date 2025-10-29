@@ -1,0 +1,2 @@
+# Insights-for-Crisis-Recovery-in-an-Online-Food-Delivery-Startup
+QuickBite Express is a food-tech startup that connects customers with nearby restaurants and cloud kitchens. QuickBite faced a major crisis. A viral social media incident involving food safety violations at partner restaurants, combined with a week-long delivery outage during the monsoon season, triggered massive customer backlash. 
